@@ -1,0 +1,19 @@
+.footer-container {
+    border: 1px solid gray;
+    background-color: rgb(153, 121, 184);
+    padding: 10px;
+    color: white;
+    font-size: 18px;
+}
+
+.footer-value {
+    text-align: center;
+    margin: 20px;
+}
+
+@media only screen and (max-width: 520px) {
+    .footer-container {
+        width: 100%;
+        /* font-size: 15px; */
+    }
+}

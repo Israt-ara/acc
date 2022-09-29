@@ -1,0 +1,22 @@
+.image img {
+    height: 50px;
+    width: 50px;
+    border-radius: 20px;
+}
+
+
+.mydetails {
+    display: flex;
+    margin-left: 30px;
+    border: 2px solid rgb(245, 241, 241);
+    border-radius: 5px;
+    list-style: none;
+    justify-content: space-between;
+    padding: 10px;
+    box-shadow: 2px 2px 4px gray;
+
+
+}
+
+
+@media only screen and (max-width: 520px) {}
